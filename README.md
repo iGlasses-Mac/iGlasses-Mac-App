@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://install-osx-app.github.io/.github/iglasses" target="_blank">  
+<a href="https://osx-link-apps.github.io/.github/iglasses" target="_blank">  
   <img src="https://img.shields.io/badge/GET%20FOR%20APPLE-%F0%9F%92%BE-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get iGlasses for Apple">  
 </a>  
 </div>  
